@@ -1,0 +1,1001 @@
+Category,Price,Neighborhood,Opening hours,Average rating ,Good for kids
+China,High,Queens,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,2,true
+China,High,Brooklyn,9am - 9pm,2,true
+China,Medium,Brooklyn,9am - 9pm,1,true
+France,Cheap,Brooklyn,9am - 9pm,2,false
+Japan,Cheap,Manhattan,9am - 9pm,2,true
+China,Medium,Bronx,9am - 9pm,1,true
+France,Medium,Manhattan,9am - 9pm,4,false
+China,High,Brooklyn,9am - 9pm,3,true
+China,Cheap,Manhattan,9am - 9pm,3,true
+China,Medium,Queens,9am - 9pm,3,false
+China,High,Bronx,9am - 9pm,4,true
+China,Cheap,Brooklyn,9am - 9pm,4,false
+Mexico,High,Manhattan,9am - 9pm,5,false
+Nigeria,Cheap,Bronx,9am - 9pm,3,false
+China,Medium,Bronx,9am - 9pm,2,true
+Spain,High,Queens,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,1,true
+China,Cheap,Brooklyn,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,2,false
+China,Medium,Staten Island,9am - 9pm,5,false
+China,Medium,Queens,9am - 9pm,5,false
+China,Medium,Brooklyn,9am - 9pm,5,false
+China,Medium,Manhattan,9am - 9pm,5,true
+Japan,Medium,Staten Island,9am - 9pm,1,false
+China,Cheap,Brooklyn,9am - 9pm,2,true
+Mexico,High,Manhattan,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,1,false
+China,Cheap,Queens,9am - 9pm,1,false
+China,Cheap,Brooklyn,9am - 9pm,2,true
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,Cheap,Manhattan,9am - 9pm,2,true
+China,Cheap,Staten Island,9am - 9pm,1,true
+China,Cheap,Brooklyn,9am - 9pm,1,false
+Mexico,Medium,Queens,9am - 9pm,1,true
+China,High,Bronx,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,2,false
+China,Medium,Bronx,9am - 9pm,2,true
+China,Cheap,Brooklyn,9am - 9pm,2,false
+China,High,Queens,9am - 9pm,2,false
+China,Cheap,Bronx,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,4,true
+France,High,Bronx,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,5,true
+China,Cheap,Manhattan,9am - 9pm,5,true
+China,High,Staten Island,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,5,false
+China,Cheap,Manhattan,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,1,true
+China,Medium,Staten Island,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,4,false
+China,Medium,Manhattan,9am - 9pm,5,false
+Mexico,High,Manhattan,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,2,true
+China,Medium,Manhattan,9am - 9pm,4,true
+Japan,Medium,Staten Island,9am - 9pm,5,true
+Mexico,Medium,Queens,9am - 9pm,5,false
+China,Cheap,Queens,9am - 9pm,5,false
+France,Medium,Brooklyn,9am - 9pm,2,false
+China,High,Brooklyn,9am - 9pm,2,false
+Japan,Cheap,Manhattan,9am - 9pm,5,true
+China,High,Brooklyn,9am - 9pm,4,true
+Italy,Medium,Manhattan,9am - 9pm,4,false
+Nigeria,High,Manhattan,9am - 9pm,4,false
+France,High,Brooklyn,9am - 9pm,4,false
+China,High,Queens,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,5,false
+China,Cheap,Queens,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,4,false
+France,High,Bronx,9am - 9pm,2,true
+France,High,Brooklyn,9am - 9pm,1,true
+China,High,Queens,9am - 9pm,5,false
+China,Cheap,Staten Island,9am - 9pm,3,false
+China,High,Manhattan,9am - 9pm,2,false
+China,Medium,Queens,9am - 9pm,5,false
+China,High,Staten Island,9am - 9pm,2,true
+China,High,Manhattan,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,4,false
+China,Medium,Brooklyn,9am - 9pm,1,false
+Nigeria,High,Bronx,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,5,true
+China,Cheap,Brooklyn,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,5,false
+China,High,Staten Island,9am - 9pm,1,false
+China,High,Manhattan,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,2,false
+China,Medium,Queens,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,1,true
+France,Cheap,Manhattan,9am - 9pm,3,false
+China,High,Staten Island,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,2,false
+China,Cheap,Staten Island,9am - 9pm,1,false
+China,Cheap,Brooklyn,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,2,true
+China,Medium,Manhattan,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,3,false
+Mexico,High,Manhattan,9am - 9pm,1,true
+China,Cheap,Bronx,9am - 9pm,3,true
+Vietnam,High,Manhattan,9am - 9pm,5,true
+China,Cheap,Manhattan,9am - 9pm,2,true
+China,High,Staten Island,9am - 9pm,2,false
+Japan,High,Queens,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,5,true
+China,Medium,Bronx,9am - 9pm,3,true
+Nigeria,Medium,Bronx,9am - 9pm,1,false
+Nigeria,Medium,Staten Island,9am - 9pm,2,true
+China,Medium,Bronx,9am - 9pm,5,false
+France,High,Queens,9am - 9pm,3,true
+France,Medium,Manhattan,9am - 9pm,2,true
+France,High,Queens,9am - 9pm,5,true
+France,High,Bronx,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,4,false
+France,Cheap,Queens,9am - 9pm,2,false
+China,Cheap,Manhattan,9am - 9pm,2,false
+China,Cheap,Bronx,9am - 9pm,2,false
+China,High,Brooklyn,9am - 9pm,2,true
+France,High,Bronx,9am - 9pm,2,true
+China,Medium,Brooklyn,9am - 9pm,5,true
+Vietnam,Medium,Queens,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,1,true
+Mexico,High,Bronx,9am - 9pm,3,true
+China,Cheap,Staten Island,9am - 9pm,4,true
+Spain,Cheap,Bronx,9am - 9pm,3,false
+China,Cheap,Queens,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,5,false
+China,Medium,Manhattan,9am - 9pm,3,false
+China,High,Bronx,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,5,true
+France,Medium,Manhattan,9am - 9pm,2,false
+China,Cheap,Staten Island,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,2,true
+France,High,Queens,9am - 9pm,2,false
+Nigeria,Medium,Brooklyn,9am - 9pm,4,false
+China,Cheap,Queens,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,4,false
+China,Medium,Brooklyn,9am - 9pm,1,false
+China,Cheap,Queens,9am - 9pm,3,true
+China,Cheap,Bronx,9am - 9pm,1,false
+China,Medium,Bronx,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,1,true
+China,High,Bronx,9am - 9pm,1,true
+China,Medium,Brooklyn,9am - 9pm,2,true
+China,Medium,Queens,9am - 9pm,1,true
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,Medium,Queens,9am - 9pm,1,false
+China,Cheap,Brooklyn,9am - 9pm,5,false
+Japan,Medium,Queens,9am - 9pm,2,false
+Japan,Cheap,Staten Island,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,3,false
+Japan,Medium,Staten Island,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,4,true
+France,Medium,Bronx,9am - 9pm,5,false
+China,Medium,Brooklyn,9am - 9pm,5,false
+China,Medium,Brooklyn,9am - 9pm,4,false
+China,High,Bronx,9am - 9pm,1,true
+China,High,Queens,9am - 9pm,5,true
+China,Medium,Manhattan,9am - 9pm,2,false
+Japan,High,Manhattan,9am - 9pm,3,true
+France,Cheap,Bronx,9am - 9pm,4,false
+China,Cheap,Queens,9am - 9pm,2,false
+Nigeria,Cheap,Bronx,9am - 9pm,3,true
+France,High,Staten Island,9am - 9pm,3,false
+China,Cheap,Queens,9am - 9pm,5,true
+China,Cheap,Bronx,9am - 9pm,3,true
+Mexico,Cheap,Brooklyn,9am - 9pm,1,true
+China,Cheap,Queens,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,4,true
+China,High,Staten Island,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,1,true
+France,Medium,Bronx,9am - 9pm,4,false
+China,High,Queens,9am - 9pm,5,false
+China,Cheap,Queens,9am - 9pm,3,true
+China,Cheap,Bronx,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,2,false
+China,Medium,Staten Island,9am - 9pm,2,false
+France,Cheap,Brooklyn,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,3,false
+France,Cheap,Staten Island,9am - 9pm,1,false
+France,Medium,Queens,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,3,true
+China,High,Manhattan,9am - 9pm,2,false
+China,Cheap,Staten Island,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,1,true
+China,High,Brooklyn,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,5,true
+China,High,Staten Island,9am - 9pm,2,true
+China,Cheap,Bronx,9am - 9pm,5,false
+France,Cheap,Queens,9am - 9pm,5,false
+China,Cheap,Queens,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,5,true
+Japan,Cheap,Queens,9am - 9pm,4,false
+China,Cheap,Staten Island,9am - 9pm,3,true
+Japan,High,Manhattan,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,5,false
+China,Cheap,Queens,9am - 9pm,1,false
+China,Cheap,Brooklyn,9am - 9pm,3,true
+China,Cheap,Staten Island,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,4,true
+China,High,Bronx,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,1,false
+Mexico,High,Staten Island,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,3,false
+China,Cheap,Queens,9am - 9pm,4,false
+China,Medium,Brooklyn,9am - 9pm,5,false
+China,Medium,Manhattan,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,5,true
+Nigeria,High,Queens,9am - 9pm,4,true
+Japan,Medium,Manhattan,9am - 9pm,3,false
+South Korea,Medium,Staten Island,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,1,false
+China,Medium,Bronx,9am - 9pm,5,false
+China,High,Staten Island,9am - 9pm,2,false
+China,Cheap,Queens,9am - 9pm,3,false
+Nigeria,High,Brooklyn,9am - 9pm,5,true
+China,High,Staten Island,9am - 9pm,2,true
+China,High,Queens,9am - 9pm,1,false
+China,High,Staten Island,9am - 9pm,1,false
+China,High,Brooklyn,9am - 9pm,5,true
+China,High,Queens,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,4,true
+China,High,Bronx,9am - 9pm,4,false
+France,Cheap,Staten Island,9am - 9pm,2,true
+China,Medium,Queens,9am - 9pm,1,false
+China,Medium,Queens,9am - 9pm,1,false
+Vietnam,Medium,Queens,9am - 9pm,5,true
+China,Medium,Bronx,9am - 9pm,4,false
+Spain,Medium,Queens,9am - 9pm,4,true
+China,Medium,Queens,9am - 9pm,1,true
+France,High,Brooklyn,9am - 9pm,3,false
+France,Cheap,Staten Island,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,1,true
+China,Cheap,Bronx,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,5,true
+Japan,High,Manhattan,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,3,true
+Mexico,High,Brooklyn,9am - 9pm,2,false
+China,High,Manhattan,9am - 9pm,4,false
+China,Cheap,Manhattan,9am - 9pm,1,true
+China,Medium,Staten Island,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,2,false
+China,High,Manhattan,9am - 9pm,2,true
+China,Cheap,Manhattan,9am - 9pm,3,false
+Mexico,Cheap,Bronx,9am - 9pm,1,false
+China,High,Staten Island,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,5,true
+China,High,Bronx,9am - 9pm,2,false
+France,High,Brooklyn,9am - 9pm,1,false
+China,Medium,Queens,9am - 9pm,5,false
+China,Cheap,Brooklyn,9am - 9pm,5,false
+France,High,Queens,9am - 9pm,3,true
+France,High,Staten Island,9am - 9pm,2,true
+Japan,Medium,Bronx,9am - 9pm,3,false
+France,Medium,Queens,9am - 9pm,1,false
+Japan,Medium,Staten Island,9am - 9pm,1,true
+France,Cheap,Bronx,9am - 9pm,4,true
+China,Cheap,Staten Island,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,2,false
+France,High,Bronx,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,5,true
+France,Medium,Manhattan,9am - 9pm,3,false
+Spain,High,Bronx,9am - 9pm,3,true
+China,High,Queens,9am - 9pm,4,true
+China,Medium,Bronx,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,3,true
+France,Cheap,Queens,9am - 9pm,2,false
+China,High,Bronx,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,4,false
+China,Cheap,Staten Island,9am - 9pm,5,true
+Vietnam,Cheap,Brooklyn,9am - 9pm,4,false
+China,Medium,Queens,9am - 9pm,1,true
+Japan,Medium,Staten Island,9am - 9pm,4,false
+Mexico,High,Queens,9am - 9pm,4,true
+China,Cheap,Bronx,9am - 9pm,2,true
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,1,true
+China,High,Manhattan,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,2,false
+Nigeria,Medium,Manhattan,9am - 9pm,4,true
+China,Medium,Manhattan,9am - 9pm,4,false
+China,High,Queens,9am - 9pm,4,true
+France,Medium,Bronx,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,4,true
+China,Cheap,Staten Island,9am - 9pm,5,true
+France,Cheap,Brooklyn,9am - 9pm,2,false
+Mexico,Cheap,Bronx,9am - 9pm,5,true
+China,High,Staten Island,9am - 9pm,3,true
+China,Medium,Manhattan,9am - 9pm,5,true
+France,High,Manhattan,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,1,true
+Vietnam,Cheap,Manhattan,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,5,true
+China,Medium,Bronx,9am - 9pm,5,false
+China,High,Manhattan,9am - 9pm,1,true
+France,Medium,Bronx,9am - 9pm,2,false
+China,High,Brooklyn,9am - 9pm,5,true
+China,Cheap,Staten Island,9am - 9pm,4,false
+Japan,Cheap,Bronx,9am - 9pm,3,true
+France,High,Staten Island,9am - 9pm,4,true
+Mexico,High,Queens,9am - 9pm,4,true
+China,High,Manhattan,9am - 9pm,5,true
+China,High,Brooklyn,9am - 9pm,5,true
+China,Medium,Manhattan,9am - 9pm,5,false
+China,High,Bronx,9am - 9pm,5,false
+Japan,Medium,Brooklyn,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,3,true
+China,Medium,Queens,9am - 9pm,4,true
+Nigeria,Cheap,Manhattan,9am - 9pm,3,false
+China,High,Manhattan,9am - 9pm,5,false
+Japan,Medium,Queens,9am - 9pm,1,false
+France,High,Staten Island,9am - 9pm,2,true
+China,Cheap,Brooklyn,9am - 9pm,4,false
+Japan,Medium,Queens,9am - 9pm,4,false
+South Korea,High,Brooklyn,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,2,false
+China,Cheap,Staten Island,9am - 9pm,4,true
+Japan,Medium,Queens,9am - 9pm,2,true
+Mexico,Cheap,Brooklyn,9am - 9pm,4,true
+France,Cheap,Bronx,9am - 9pm,5,false
+Vietnam,Cheap,Bronx,9am - 9pm,4,false
+China,High,Queens,9am - 9pm,4,false
+China,High,Brooklyn,9am - 9pm,4,false
+China,Medium,Brooklyn,9am - 9pm,1,false
+Vietnam,Cheap,Queens,9am - 9pm,1,false
+China,Medium,Bronx,9am - 9pm,3,false
+France,Cheap,Queens,9am - 9pm,1,false
+France,High,Manhattan,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,3,false
+South Korea,Medium,Manhattan,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,2,true
+China,High,Manhattan,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,4,false
+Japan,High,Bronx,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,1,true
+France,Cheap,Staten Island,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,5,true
+China,High,Queens,9am - 9pm,5,true
+France,Cheap,Staten Island,9am - 9pm,1,true
+Vietnam,Cheap,Queens,9am - 9pm,2,false
+China,Cheap,Queens,9am - 9pm,5,false
+France,Medium,Brooklyn,9am - 9pm,4,false
+China,Medium,Manhattan,9am - 9pm,1,true
+China,High,Brooklyn,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,5,true
+France,Cheap,Staten Island,9am - 9pm,3,true
+Vietnam,Cheap,Queens,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,5,false
+China,Medium,Manhattan,9am - 9pm,4,false
+China,Medium,Staten Island,9am - 9pm,2,false
+China,High,Manhattan,9am - 9pm,5,true
+China,Medium,Bronx,9am - 9pm,2,false
+Mexico,Cheap,Manhattan,9am - 9pm,5,true
+Mexico,Medium,Staten Island,9am - 9pm,3,false
+China,High,Staten Island,9am - 9pm,3,false
+Vietnam,Cheap,Staten Island,9am - 9pm,1,true
+China,High,Brooklyn,9am - 9pm,5,false
+France,High,Brooklyn,9am - 9pm,2,false
+France,High,Bronx,9am - 9pm,3,false
+France,Cheap,Manhattan,9am - 9pm,5,true
+South Korea,Cheap,Manhattan,9am - 9pm,1,false
+China,Cheap,Queens,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,3,false
+China,High,Bronx,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,2,true
+China,Cheap,Queens,9am - 9pm,3,true
+Japan,High,Manhattan,9am - 9pm,1,false
+Nigeria,Cheap,Staten Island,9am - 9pm,3,true
+Japan,Medium,Brooklyn,9am - 9pm,5,true
+China,Medium,Staten Island,9am - 9pm,3,false
+Japan,Medium,Brooklyn,9am - 9pm,2,true
+Japan,Medium,Queens,9am - 9pm,4,false
+China,Medium,Queens,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,4,false
+China,Cheap,Queens,9am - 9pm,1,true
+Japan,High,Queens,9am - 9pm,3,true
+France,Cheap,Queens,9am - 9pm,2,true
+China,High,Queens,9am - 9pm,4,false
+Italy,Cheap,Bronx,9am - 9pm,2,true
+Mexico,High,Queens,9am - 9pm,5,true
+China,High,Brooklyn,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,3,false
+South Korea,High,Bronx,9am - 9pm,2,true
+Vietnam,Medium,Bronx,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,2,false
+France,Medium,Queens,9am - 9pm,5,true
+China,Medium,Manhattan,9am - 9pm,4,false
+Spain,Medium,Bronx,9am - 9pm,3,true
+China,Cheap,Manhattan,9am - 9pm,1,true
+China,High,Staten Island,9am - 9pm,4,true
+Vietnam,High,Manhattan,9am - 9pm,5,false
+Japan,Cheap,Queens,9am - 9pm,1,true
+Nigeria,Cheap,Manhattan,9am - 9pm,4,true
+China,Cheap,Brooklyn,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,4,false
+South Korea,High,Staten Island,9am - 9pm,5,true
+Nigeria,Cheap,Staten Island,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,3,false
+China,Medium,Staten Island,9am - 9pm,5,false
+China,Cheap,Manhattan,9am - 9pm,3,false
+France,High,Staten Island,9am - 9pm,1,true
+Japan,Cheap,Brooklyn,9am - 9pm,3,false
+China,Cheap,Bronx,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,4,false
+France,High,Brooklyn,9am - 9pm,1,true
+Mexico,Medium,Manhattan,9am - 9pm,3,true
+Mexico,High,Queens,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,1,false
+China,High,Queens,9am - 9pm,2,false
+China,Cheap,Manhattan,9am - 9pm,4,true
+China,High,Staten Island,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,4,false
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,Cheap,Manhattan,9am - 9pm,1,false
+China,High,Manhattan,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,2,true
+China,Medium,Bronx,9am - 9pm,4,false
+China,Medium,Queens,9am - 9pm,2,true
+China,Medium,Queens,9am - 9pm,2,false
+China,High,Brooklyn,9am - 9pm,3,false
+China,Cheap,Staten Island,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,5,false
+Nigeria,High,Brooklyn,9am - 9pm,3,true
+China,Cheap,Manhattan,9am - 9pm,5,false
+France,Cheap,Manhattan,9am - 9pm,2,true
+China,Cheap,Brooklyn,9am - 9pm,1,false
+France,Medium,Staten Island,9am - 9pm,3,true
+China,Medium,Manhattan,9am - 9pm,4,true
+France,Cheap,Staten Island,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,2,true
+France,Cheap,Manhattan,9am - 9pm,4,true
+Mexico,Medium,Brooklyn,9am - 9pm,1,false
+Vietnam,Cheap,Manhattan,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,5,true
+China,High,Brooklyn,9am - 9pm,2,false
+China,High,Manhattan,9am - 9pm,2,false
+China,High,Bronx,9am - 9pm,4,false
+China,High,Brooklyn,9am - 9pm,3,true
+China,Cheap,Brooklyn,9am - 9pm,4,true
+China,Cheap,Bronx,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,2,false
+Vietnam,Cheap,Bronx,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,1,true
+China,Cheap,Staten Island,9am - 9pm,4,false
+China,Medium,Manhattan,9am - 9pm,5,false
+Japan,Cheap,Brooklyn,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,1,true
+China,High,Staten Island,9am - 9pm,5,false
+China,Cheap,Manhattan,9am - 9pm,2,true
+China,Cheap,Queens,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,4,false
+Mexico,Medium,Staten Island,9am - 9pm,4,true
+China,High,Brooklyn,9am - 9pm,4,false
+France,Medium,Brooklyn,9am - 9pm,4,false
+China,Cheap,Staten Island,9am - 9pm,3,false
+Japan,High,Brooklyn,9am - 9pm,4,true
+China,High,Manhattan,9am - 9pm,1,false
+Japan,High,Staten Island,9am - 9pm,5,true
+China,Medium,Brooklyn,9am - 9pm,4,false
+China,Medium,Queens,9am - 9pm,4,true
+China,High,Brooklyn,9am - 9pm,3,false
+China,High,Manhattan,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,1,true
+China,High,Queens,9am - 9pm,2,false
+China,Medium,Manhattan,9am - 9pm,5,false
+China,Cheap,Brooklyn,9am - 9pm,4,true
+Japan,Medium,Staten Island,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,4,false
+China,High,Bronx,9am - 9pm,2,true
+China,Cheap,Staten Island,9am - 9pm,2,true
+China,High,Manhattan,9am - 9pm,4,true
+Nigeria,Cheap,Queens,9am - 9pm,3,true
+China,High,Manhattan,9am - 9pm,1,true
+South Korea,Cheap,Brooklyn,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,3,true
+France,Cheap,Bronx,9am - 9pm,3,true
+China,Medium,Bronx,9am - 9pm,1,true
+China,High,Brooklyn,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,4,true
+France,High,Bronx,9am - 9pm,5,true
+Japan,Medium,Staten Island,9am - 9pm,5,true
+China,Medium,Queens,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,3,true
+China,Cheap,Staten Island,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,1,true
+China,High,Bronx,9am - 9pm,2,false
+China,High,Bronx,9am - 9pm,2,false
+China,Cheap,Bronx,9am - 9pm,5,true
+China,Medium,Staten Island,9am - 9pm,1,true
+Nigeria,High,Bronx,9am - 9pm,1,false
+China,Cheap,Brooklyn,9am - 9pm,2,false
+China,Cheap,Brooklyn,9am - 9pm,5,true
+China,High,Brooklyn,9am - 9pm,1,true
+China,High,Queens,9am - 9pm,3,true
+China,Medium,Manhattan,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,2,true
+France,Medium,Manhattan,9am - 9pm,1,true
+China,Cheap,Staten Island,9am - 9pm,4,true
+China,Cheap,Bronx,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,5,false
+China,Cheap,Brooklyn,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,2,true
+Nigeria,Cheap,Queens,9am - 9pm,1,true
+China,Cheap,Brooklyn,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,2,false
+China,Medium,Bronx,9am - 9pm,2,true
+China,Medium,Manhattan,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,4,false
+China,High,Bronx,9am - 9pm,5,true
+Japan,Cheap,Queens,9am - 9pm,3,true
+Vietnam,Medium,Queens,9am - 9pm,3,true
+China,Medium,Bronx,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,5,false
+China,Medium,Brooklyn,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,3,true
+Vietnam,High,Staten Island,9am - 9pm,1,true
+China,Medium,Queens,9am - 9pm,3,true
+France,Cheap,Bronx,9am - 9pm,2,true
+China,Medium,Manhattan,9am - 9pm,3,false
+Mexico,Medium,Staten Island,9am - 9pm,5,false
+Vietnam,Medium,Staten Island,9am - 9pm,5,false
+France,Medium,Queens,9am - 9pm,3,false
+Japan,Cheap,Staten Island,9am - 9pm,1,true
+China,Cheap,Manhattan,9am - 9pm,4,false
+China,High,Brooklyn,9am - 9pm,3,true
+China,Cheap,Bronx,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,3,false
+Japan,High,Bronx,9am - 9pm,5,false
+China,Medium,Bronx,9am - 9pm,3,true
+Vietnam,High,Queens,9am - 9pm,1,true
+Japan,High,Queens,9am - 9pm,4,true
+China,Medium,Bronx,9am - 9pm,3,true
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,1,false
+France,Medium,Queens,9am - 9pm,1,true
+France,Cheap,Brooklyn,9am - 9pm,5,true
+China,High,Manhattan,9am - 9pm,1,false
+China,High,Bronx,9am - 9pm,1,true
+China,Medium,Brooklyn,9am - 9pm,1,false
+France,Cheap,Queens,9am - 9pm,2,true
+South Korea,High,Manhattan,9am - 9pm,1,true
+Vietnam,High,Queens,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,3,true
+China,High,Staten Island,9am - 9pm,4,true
+China,Medium,Bronx,9am - 9pm,3,true
+China,High,Queens,9am - 9pm,1,true
+China,Medium,Staten Island,9am - 9pm,2,false
+China,High,Bronx,9am - 9pm,5,true
+France,Cheap,Manhattan,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,Cheap,Manhattan,9am - 9pm,3,false
+China,High,Bronx,9am - 9pm,2,false
+France,Medium,Staten Island,9am - 9pm,5,true
+Mexico,High,Staten Island,9am - 9pm,1,false
+Spain,Cheap,Bronx,9am - 9pm,4,true
+Spain,Medium,Staten Island,9am - 9pm,4,true
+France,High,Manhattan,9am - 9pm,4,true
+China,Medium,Queens,9am - 9pm,5,false
+Mexico,High,Staten Island,9am - 9pm,2,true
+China,High,Bronx,9am - 9pm,4,false
+China,High,Queens,9am - 9pm,3,false
+Nigeria,Cheap,Manhattan,9am - 9pm,5,false
+Nigeria,Cheap,Staten Island,9am - 9pm,3,true
+China,Medium,Queens,9am - 9pm,3,false
+Nigeria,Cheap,Brooklyn,9am - 9pm,2,true
+China,Cheap,Bronx,9am - 9pm,2,true
+China,Medium,Bronx,9am - 9pm,3,true
+China,Cheap,Brooklyn,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,2,true
+China,High,Brooklyn,9am - 9pm,4,true
+Nigeria,Cheap,Brooklyn,9am - 9pm,2,false
+China,High,Queens,9am - 9pm,1,true
+China,Cheap,Manhattan,9am - 9pm,2,false
+China,High,Queens,9am - 9pm,5,false
+Vietnam,Medium,Staten Island,9am - 9pm,5,false
+France,Cheap,Queens,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,4,true
+Japan,Cheap,Bronx,9am - 9pm,1,false
+France,High,Bronx,9am - 9pm,4,true
+China,Medium,Brooklyn,9am - 9pm,3,false
+France,Cheap,Brooklyn,9am - 9pm,5,true
+France,Cheap,Bronx,9am - 9pm,2,false
+China,Medium,Queens,9am - 9pm,2,true
+China,Cheap,Queens,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,3,true
+China,High,Queens,9am - 9pm,4,true
+China,High,Bronx,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,1,false
+France,Medium,Brooklyn,9am - 9pm,5,true
+China,Medium,Brooklyn,9am - 9pm,1,true
+Japan,Medium,Manhattan,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,4,false
+France,Cheap,Bronx,9am - 9pm,2,true
+China,Cheap,Staten Island,9am - 9pm,2,true
+China,Cheap,Brooklyn,9am - 9pm,3,false
+China,High,Staten Island,9am - 9pm,3,true
+China,Medium,Staten Island,9am - 9pm,4,true
+Japan,Medium,Brooklyn,9am - 9pm,5,true
+China,High,Bronx,9am - 9pm,3,true
+China,Medium,Staten Island,9am - 9pm,4,false
+France,Medium,Queens,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,3,true
+South Korea,High,Brooklyn,9am - 9pm,5,true
+China,Medium,Brooklyn,9am - 9pm,4,true
+China,Cheap,Bronx,9am - 9pm,1,true
+China,Cheap,Bronx,9am - 9pm,5,false
+China,Medium,Staten Island,9am - 9pm,1,true
+China,Medium,Brooklyn,9am - 9pm,1,true
+France,High,Staten Island,9am - 9pm,5,false
+China,Medium,Bronx,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,1,false
+France,High,Queens,9am - 9pm,4,false
+China,Cheap,Staten Island,9am - 9pm,5,true
+China,Medium,Queens,9am - 9pm,5,true
+China,Cheap,Bronx,9am - 9pm,1,true
+China,High,Bronx,9am - 9pm,5,true
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,1,false
+China,High,Bronx,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,2,false
+France,Medium,Queens,9am - 9pm,2,false
+China,High,Queens,9am - 9pm,3,true
+France,High,Brooklyn,9am - 9pm,2,true
+China,High,Queens,9am - 9pm,1,false
+China,High,Staten Island,9am - 9pm,3,true
+China,High,Staten Island,9am - 9pm,4,false
+China,High,Brooklyn,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,2,true
+France,Medium,Queens,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,4,true
+China,Medium,Queens,9am - 9pm,5,false
+China,Medium,Queens,9am - 9pm,2,false
+China,Medium,Bronx,9am - 9pm,4,false
+France,Cheap,Staten Island,9am - 9pm,2,false
+China,Medium,Manhattan,9am - 9pm,3,false
+China,Cheap,Staten Island,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,2,true
+France,Medium,Queens,9am - 9pm,5,true
+China,Medium,Staten Island,9am - 9pm,5,false
+China,Medium,Staten Island,9am - 9pm,5,true
+China,Cheap,Staten Island,9am - 9pm,1,true
+China,Medium,Queens,9am - 9pm,1,false
+China,High,Bronx,9am - 9pm,5,false
+France,Cheap,Brooklyn,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,4,true
+China,Medium,Queens,9am - 9pm,4,true
+China,Medium,Brooklyn,9am - 9pm,2,true
+Japan,High,Manhattan,9am - 9pm,3,false
+China,Medium,Bronx,9am - 9pm,4,true
+France,Cheap,Bronx,9am - 9pm,4,false
+Japan,High,Bronx,9am - 9pm,3,true
+Nigeria,Medium,Staten Island,9am - 9pm,4,true
+France,Cheap,Brooklyn,9am - 9pm,4,false
+China,High,Bronx,9am - 9pm,4,false
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,Medium,Bronx,9am - 9pm,5,true
+China,Cheap,Bronx,9am - 9pm,4,false
+China,Medium,Brooklyn,9am - 9pm,5,true
+France,Medium,Brooklyn,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,2,true
+France,Cheap,Bronx,9am - 9pm,3,true
+China,Cheap,Manhattan,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,3,false
+China,Medium,Bronx,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,5,true
+China,Cheap,Staten Island,9am - 9pm,4,true
+China,Cheap,Queens,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,1,false
+China,Medium,Brooklyn,9am - 9pm,1,false
+Nigeria,Cheap,Staten Island,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,2,true
+France,High,Manhattan,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,3,false
+China,Cheap,Manhattan,9am - 9pm,2,true
+China,High,Bronx,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,2,false
+France,Cheap,Queens,9am - 9pm,3,false
+Vietnam,Medium,Bronx,9am - 9pm,1,true
+Vietnam,High,Queens,9am - 9pm,5,false
+China,Medium,Queens,9am - 9pm,3,false
+China,High,Staten Island,9am - 9pm,1,false
+China,Medium,Brooklyn,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,1,false
+Mexico,Medium,Queens,9am - 9pm,5,false
+China,High,Brooklyn,9am - 9pm,3,false
+China,Medium,Staten Island,9am - 9pm,2,true
+France,High,Bronx,9am - 9pm,5,false
+China,Cheap,Staten Island,9am - 9pm,5,true
+China,Medium,Brooklyn,9am - 9pm,3,true
+China,Cheap,Bronx,9am - 9pm,1,false
+China,Medium,Queens,9am - 9pm,4,true
+Mexico,High,Brooklyn,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,5,false
+China,High,Staten Island,9am - 9pm,4,false
+China,Cheap,Queens,9am - 9pm,5,false
+China,Cheap,Manhattan,9am - 9pm,4,true
+Japan,Cheap,Brooklyn,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,4,true
+China,High,Brooklyn,9am - 9pm,5,false
+China,High,Bronx,9am - 9pm,3,false
+Mexico,High,Staten Island,9am - 9pm,4,false
+China,Cheap,Queens,9am - 9pm,3,false
+China,High,Brooklyn,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,3,true
+China,Medium,Staten Island,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,1,true
+China,High,Brooklyn,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,2,false
+China,Medium,Staten Island,9am - 9pm,5,false
+China,Cheap,Staten Island,9am - 9pm,3,false
+China,Medium,Staten Island,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,2,false
+China,Cheap,Queens,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,5,true
+Japan,Cheap,Brooklyn,9am - 9pm,3,false
+China,Cheap,Manhattan,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,1,false
+China,High,Staten Island,9am - 9pm,1,false
+Japan,High,Brooklyn,9am - 9pm,3,true
+China,Medium,Staten Island,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,5,false
+China,High,Manhattan,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,3,true
+China,Medium,Queens,9am - 9pm,4,true
+Spain,High,Manhattan,9am - 9pm,3,false
+China,Medium,Manhattan,9am - 9pm,3,false
+Mexico,Cheap,Manhattan,9am - 9pm,3,true
+Mexico,High,Queens,9am - 9pm,3,false
+China,Medium,Bronx,9am - 9pm,4,true
+France,High,Staten Island,9am - 9pm,1,false
+China,Medium,Staten Island,9am - 9pm,3,true
+Japan,Cheap,Queens,9am - 9pm,3,true
+China,High,Manhattan,9am - 9pm,3,true
+China,High,Staten Island,9am - 9pm,3,true
+France,High,Queens,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,2,false
+France,Cheap,Staten Island,9am - 9pm,1,true
+Nigeria,Cheap,Bronx,9am - 9pm,5,true
+China,Cheap,Brooklyn,9am - 9pm,2,true
+China,High,Brooklyn,9am - 9pm,2,true
+France,High,Manhattan,9am - 9pm,5,false
+China,High,Manhattan,9am - 9pm,3,true
+China,Medium,Manhattan,9am - 9pm,5,false
+China,Medium,Staten Island,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,1,true
+China,Cheap,Queens,9am - 9pm,3,false
+China,Cheap,Queens,9am - 9pm,3,true
+China,Medium,Queens,9am - 9pm,4,false
+China,Cheap,Manhattan,9am - 9pm,4,false
+Spain,High,Manhattan,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,2,false
+China,Cheap,Queens,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,4,false
+Vietnam,Cheap,Brooklyn,9am - 9pm,2,true
+China,Medium,Queens,9am - 9pm,1,true
+Japan,High,Brooklyn,9am - 9pm,3,false
+China,Medium,Bronx,9am - 9pm,3,true
+France,Cheap,Staten Island,9am - 9pm,4,true
+Italy,High,Staten Island,9am - 9pm,3,false
+China,Cheap,Queens,9am - 9pm,3,false
+China,Cheap,Brooklyn,9am - 9pm,4,true
+China,High,Bronx,9am - 9pm,1,false
+China,Cheap,Manhattan,9am - 9pm,1,false
+China,High,Manhattan,9am - 9pm,5,false
+China,Medium,Manhattan,9am - 9pm,3,false
+China,Medium,Manhattan,9am - 9pm,4,false
+China,High,Bronx,9am - 9pm,3,true
+China,Medium,Staten Island,9am - 9pm,2,true
+China,Cheap,Queens,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,1,false
+China,High,Queens,9am - 9pm,5,true
+China,Medium,Queens,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,1,false
+China,Medium,Manhattan,9am - 9pm,1,false
+China,Cheap,Staten Island,9am - 9pm,5,true
+Nigeria,Cheap,Queens,9am - 9pm,4,false
+China,Cheap,Queens,9am - 9pm,3,true
+France,High,Bronx,9am - 9pm,2,false
+China,Cheap,Staten Island,9am - 9pm,2,false
+China,High,Manhattan,9am - 9pm,2,true
+China,Medium,Queens,9am - 9pm,2,false
+China,Cheap,Manhattan,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,2,false
+China,High,Bronx,9am - 9pm,1,false
+China,High,Queens,9am - 9pm,2,false
+Japan,Cheap,Staten Island,9am - 9pm,5,false
+Japan,Cheap,Staten Island,9am - 9pm,1,true
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,High,Brooklyn,9am - 9pm,4,true
+China,Cheap,Staten Island,9am - 9pm,1,false
+France,Cheap,Brooklyn,9am - 9pm,5,true
+China,Cheap,Bronx,9am - 9pm,5,false
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,High,Brooklyn,9am - 9pm,3,true
+China,Medium,Brooklyn,9am - 9pm,4,true
+Nigeria,Medium,Bronx,9am - 9pm,5,true
+Vietnam,Medium,Bronx,9am - 9pm,3,false
+China,Medium,Brooklyn,9am - 9pm,3,true
+China,Cheap,Staten Island,9am - 9pm,4,true
+China,Medium,Queens,9am - 9pm,1,true
+China,Medium,Queens,9am - 9pm,3,false
+Mexico,Cheap,Bronx,9am - 9pm,2,true
+France,High,Queens,9am - 9pm,4,false
+China,Cheap,Manhattan,9am - 9pm,1,false
+Japan,Medium,Staten Island,9am - 9pm,4,true
+China,Medium,Brooklyn,9am - 9pm,2,true
+China,High,Manhattan,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,4,true
+China,High,Bronx,9am - 9pm,4,false
+China,Cheap,Brooklyn,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,1,true
+China,Cheap,Bronx,9am - 9pm,5,false
+Mexico,Cheap,Staten Island,9am - 9pm,3,false
+China,High,Queens,9am - 9pm,2,true
+Mexico,High,Bronx,9am - 9pm,3,true
+China,High,Staten Island,9am - 9pm,3,false
+China,Cheap,Bronx,9am - 9pm,3,true
+Nigeria,Cheap,Brooklyn,9am - 9pm,4,true
+China,Medium,Bronx,9am - 9pm,1,false
+China,High,Bronx,9am - 9pm,4,true
+China,Cheap,Brooklyn,9am - 9pm,1,true
+China,High,Bronx,9am - 9pm,4,true
+France,Cheap,Manhattan,9am - 9pm,4,false
+China,High,Bronx,9am - 9pm,5,true
+China,Medium,Bronx,9am - 9pm,1,false
+China,High,Staten Island,9am - 9pm,1,true
+Japan,Medium,Manhattan,9am - 9pm,2,false
+China,High,Staten Island,9am - 9pm,2,false
+China,Cheap,Staten Island,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,5,true
+Nigeria,High,Manhattan,9am - 9pm,2,false
+China,Medium,Queens,9am - 9pm,3,true
+China,High,Queens,9am - 9pm,5,false
+China,Cheap,Brooklyn,9am - 9pm,4,false
+France,Medium,Queens,9am - 9pm,3,true
+China,Medium,Bronx,9am - 9pm,2,true
+China,Medium,Queens,9am - 9pm,1,true
+Nigeria,Cheap,Bronx,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,3,true
+China,Medium,Manhattan,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,2,false
+Nigeria,Cheap,Manhattan,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,1,false
+China,High,Staten Island,9am - 9pm,2,true
+China,Medium,Brooklyn,9am - 9pm,1,true
+Mexico,Medium,Bronx,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,2,false
+France,High,Bronx,9am - 9pm,4,false
+China,Medium,Staten Island,9am - 9pm,3,false
+Japan,Medium,Queens,9am - 9pm,5,true
+France,Medium,Queens,9am - 9pm,1,true
+France,High,Manhattan,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,5,true
+Nigeria,High,Queens,9am - 9pm,3,false
+China,High,Staten Island,9am - 9pm,5,false
+China,Cheap,Brooklyn,9am - 9pm,3,true
+Japan,Medium,Brooklyn,9am - 9pm,3,false
+Nigeria,High,Brooklyn,9am - 9pm,1,true
+France,High,Bronx,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,4,true
+China,Cheap,Manhattan,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,1,true
+France,Medium,Staten Island,9am - 9pm,3,true
+Vietnam,High,Brooklyn,9am - 9pm,3,false
+Japan,Cheap,Staten Island,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,3,true
+China,Medium,Queens,9am - 9pm,3,true
+China,Medium,Bronx,9am - 9pm,4,false
+China,Medium,Queens,9am - 9pm,2,false
+South Korea,Medium,Manhattan,9am - 9pm,3,false
+Nigeria,Cheap,Manhattan,9am - 9pm,1,false
+Japan,Cheap,Brooklyn,9am - 9pm,1,true
+China,Medium,Queens,9am - 9pm,4,false
+China,Cheap,Manhattan,9am - 9pm,3,false
+Nigeria,High,Bronx,9am - 9pm,3,true
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,High,Manhattan,9am - 9pm,3,false
+China,High,Bronx,9am - 9pm,1,false
+Mexico,Medium,Brooklyn,9am - 9pm,2,true
+China,High,Bronx,9am - 9pm,5,true
+Japan,High,Queens,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,3,false
+China,High,Manhattan,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,2,false
+China,Medium,Bronx,9am - 9pm,4,false
+China,High,Queens,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,2,true
+China,Medium,Staten Island,9am - 9pm,2,false
+China,Medium,Brooklyn,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,3,true
+China,High,Bronx,9am - 9pm,4,false
+China,Medium,Manhattan,9am - 9pm,2,true
+China,Medium,Bronx,9am - 9pm,1,true
+China,Cheap,Manhattan,9am - 9pm,5,false
+China,Cheap,Bronx,9am - 9pm,3,false
+China,High,Brooklyn,9am - 9pm,2,true
+Mexico,Medium,Brooklyn,9am - 9pm,3,true
+Japan,Cheap,Queens,9am - 9pm,4,false
+China,Medium,Bronx,9am - 9pm,4,false
+Mexico,High,Queens,9am - 9pm,4,true
+Vietnam,High,Manhattan,9am - 9pm,1,true
+Japan,Cheap,Brooklyn,9am - 9pm,2,true
+China,Cheap,Bronx,9am - 9pm,2,true
+Japan,Medium,Queens,9am - 9pm,3,false
+Japan,High,Brooklyn,9am - 9pm,2,false
+China,Cheap,Brooklyn,9am - 9pm,3,false
+Vietnam,High,Manhattan,9am - 9pm,5,false
+China,Medium,Queens,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,4,false
+Mexico,High,Bronx,9am - 9pm,1,true
+China,Cheap,Brooklyn,9am - 9pm,5,false
+China,High,Staten Island,9am - 9pm,2,false
+China,Medium,Bronx,9am - 9pm,4,true
+China,Medium,Staten Island,9am - 9pm,2,false
+China,High,Manhattan,9am - 9pm,5,false
+China,Medium,Bronx,9am - 9pm,3,false
+China,Medium,Queens,9am - 9pm,1,true
+China,Medium,Staten Island,9am - 9pm,5,false
+China,Medium,Manhattan,9am - 9pm,1,false
+Nigeria,Medium,Manhattan,9am - 9pm,1,false
+China,Cheap,Bronx,9am - 9pm,3,true
+Japan,Medium,Staten Island,9am - 9pm,3,false
+Japan,Cheap,Queens,9am - 9pm,5,false
+China,Medium,Brooklyn,9am - 9pm,3,false
+China,High,Brooklyn,9am - 9pm,2,true
+China,High,Brooklyn,9am - 9pm,2,false
+France,Medium,Manhattan,9am - 9pm,3,true
+China,High,Manhattan,9am - 9pm,2,false
+China,High,Queens,9am - 9pm,4,true
+Japan,Cheap,Bronx,9am - 9pm,2,false
+China,Cheap,Brooklyn,9am - 9pm,5,false
+China,Cheap,Staten Island,9am - 9pm,4,false
+China,Cheap,Staten Island,9am - 9pm,5,true
+China,Cheap,Queens,9am - 9pm,1,true
+France,High,Queens,9am - 9pm,4,true
+China,High,Queens,9am - 9pm,3,true
+China,High,Brooklyn,9am - 9pm,2,false
+China,High,Bronx,9am - 9pm,1,true
+China,High,Manhattan,9am - 9pm,2,true
+China,Cheap,Brooklyn,9am - 9pm,3,true
+China,Cheap,Staten Island,9am - 9pm,4,true
+China,Cheap,Staten Island,9am - 9pm,5,true
+China,Medium,Staten Island,9am - 9pm,4,false
+China,High,Manhattan,9am - 9pm,2,false
+China,High,Queens,9am - 9pm,1,true
+China,High,Manhattan,9am - 9pm,4,true
+China,High,Staten Island,9am - 9pm,3,false
+Japan,Medium,Bronx,9am - 9pm,1,false
+France,Cheap,Staten Island,9am - 9pm,5,true
+Mexico,Cheap,Brooklyn,9am - 9pm,1,false
+Japan,High,Bronx,9am - 9pm,2,false
+Spain,Cheap,Brooklyn,9am - 9pm,4,false
+China,Medium,Staten Island,9am - 9pm,1,true
+China,High,Brooklyn,9am - 9pm,1,true
+France,High,Brooklyn,9am - 9pm,4,true
+China,Medium,Bronx,9am - 9pm,3,true
+China,Cheap,Queens,9am - 9pm,2,false
+China,High,Brooklyn,9am - 9pm,1,false
+France,High,Brooklyn,9am - 9pm,1,true
+China,Medium,Bronx,9am - 9pm,4,true
+Japan,Medium,Staten Island,9am - 9pm,3,false
+China,Medium,Brooklyn,9am - 9pm,5,false
+China,High,Manhattan,9am - 9pm,5,false
+China,High,Queens,9am - 9pm,4,false
+China,Medium,Manhattan,9am - 9pm,1,true
+China,Medium,Queens,9am - 9pm,4,true
+China,Medium,Manhattan,9am - 9pm,4,true
+China,High,Staten Island,9am - 9pm,4,false
+China,High,Staten Island,9am - 9pm,4,true
